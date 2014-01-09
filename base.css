@@ -1,0 +1,50 @@
+body {
+	background: #FFF;
+	color: #666;
+	font: 100%/1.5 "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h1 {
+	font: 150% 'Anton', arial, serif;
+	margin-left: 100px;
+	letter-spacing: 2px;
+}
+
+h2 {
+	padding-top: 30px;
+	font-weight: normal;
+}
+
+h2, h3, p, ul {
+	font-size: 85%;
+	width: 50%;
+	margin-left: 100px;
+}
+
+ul {
+	list-style:none;
+}
+
+header {
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+
+#main {
+	border-top: 1px dotted #ccc;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+#main p {
+	margin-bottom: 5px;
+}
+
+section {
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+small {
+	font-size: 90%;
+}
